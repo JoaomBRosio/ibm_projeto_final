@@ -1,6 +1,0 @@
-com\bancojavar\demo_bancojavar_api\repository\ClienteRepository.class
-com\bancojavar\demo_bancojavar_api\DemoBancojavarApiApplication.class
-com\bancojavar\demo_bancojavar_api\web\controller\ClienteController.class
-com\bancojavar\demo_bancojavar_api\service\ClienteService.class
-com\bancojavar\demo_bancojavar_api\config\SpringTimezoneConfig.class
-com\bancojavar\demo_bancojavar_api\entity\Cliente.class
