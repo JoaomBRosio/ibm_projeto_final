@@ -47,6 +47,7 @@ A documentação da API pode ser acessada através do Swagger. Para acessar a do
 
 1. Com ambas as aplicações rodando, acesse a documentação swagger para que você tenha uma melhor visualização e entendimento.
 <br>
+
 2. Execute o primeiro POST de 'criar um novo cliente' (o ID é gerado automaticamente e o score crédito é recuperado através do saldo.) usando o seguinte JSON:
     ```bash
     {
@@ -57,8 +58,10 @@ A documentação da API pode ser acessada através do Swagger. Para acessar a do
     }
 3. Agora com um ou mais clientes criados podemos ir para a rota de 'buscar todos os clientes'. Para isso, apenas execute o pelo botão de 'Try it out' e depois o 'Execute'.
 <br>
+
 4. Para uma busca detalhada use a rota de 'buscar um cliente'. Clique em 'Try it out'e no campo 'ID' coloque o ID do cliente que você pretende retornar e novamente clique em 'Execute'.
 <br>
+
 5. Você também pode atualizar um cliente. Para isso use a rota de 'atualizar um cliente'. Ao clicar em 'Try it out' coloque no campo ID o ID de quem você deseja atualizar e preencha o corpo da requisição com os dados atualizados colocando o seguinte JSON:
     ```bash
     {
